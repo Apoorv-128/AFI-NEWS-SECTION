@@ -1,0 +1,23 @@
+.phonecontainer{
+    width: 650px;
+    height: 650px;
+    right: 0px;
+    background-image: url("./ipadbackground.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 800px;
+    position: relative;
+}
+
+iframe{
+    position: absolute;
+    width: 267px;
+    height: 361px;
+    top: 138px;
+    left: 185px;
+    background: #fff;
+    border: 2px #1D1F20 solid;
+    z-index: 500;
+    padding: 5px;
+    border-radius: 0px;
+}
